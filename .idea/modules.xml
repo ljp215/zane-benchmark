@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../algorithm/src/main/main.iml" filepath="$PROJECT_DIR$/../algorithm/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snippet/snippet.iml" filepath="$PROJECT_DIR$/../snippet/snippet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zane-benchmark.iml" filepath="$PROJECT_DIR$/zane-benchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zane-common-benchmark/zane-common-test.iml" filepath="$PROJECT_DIR$/zane-common-benchmark/zane-common-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zane-webapp-benchmark/zane-webapp-test.iml" filepath="$PROJECT_DIR$/zane-webapp-benchmark/zane-webapp-test.iml" />
+    </modules>
+  </component>
+</project>
